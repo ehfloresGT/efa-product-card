@@ -13,6 +13,11 @@
     "rootDir": "./src",
     // stricter type-checking for stronger correctness. Recommended by TS
     "strict": true,
+    // "typeRoots": [
+    //   "./node_modules/@types/",
+    //   "./src/@types/"
+    // ],
+    // "types": ["jest", "node", "@types/jest"],
     // linter checks for common issues
     "noImplicitReturns": true,
     "noFallthroughCasesInSwitch": true,
