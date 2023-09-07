@@ -7,6 +7,11 @@
     "dist",
     "src"
   ],
+  "repository": {
+    "url": "https://github.com/ehfloresGT/efa-product-card",
+    "type": "git"
+  },
+  "homepage": "https://pruebasdesarrolloweb.net",
   "engines": {
     "node": ">=18"
   },
@@ -61,5 +66,10 @@
     "tsdx": "^0.14.1",
     "tslib": "^2.6.2",
     "typescript": "^3.9.10"
-  }
+  },
+  "keywords": [
+    "product",
+    "card",
+    "ehfloresgt"
+  ]
 }
