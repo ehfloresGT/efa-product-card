@@ -1,6 +1,8 @@
 {
   "compilerOptions": {
     "allowSyntheticDefaultImports": false,
+    "forceConsistentCasingInFileNames": true,
+    "strict": true,
     "target": "es5",
     "module": "commonjs",
     "jsx": "react",
